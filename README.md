@@ -15,7 +15,3 @@
 
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
-  <img src="youtube.png" alt="youtube"/>
-</a>
