@@ -1,8 +1,4 @@
 
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ" target="_blank">
-  <img src="thumbnail.png" alt="Thumbnail"/>
-</a>
-
 
 ---
 ## Introduction: 
